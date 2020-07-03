@@ -1,0 +1,11 @@
+{
+  "name": "count-regressive-for-new-year",
+  "version": "1.0.0",
+  "description": "Counter regressive of date.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Ferreira",
+  "license": "ISC"
+}
