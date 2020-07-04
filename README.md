@@ -64,4 +64,4 @@ Check out the [contributing](https://github.com/edualvesf13/countdown/blob/maste
 Released in 2020.
 This project is under the [MIT license](https://github.com/edualvesf13/countdown/blob/master/LICENSE).
 
-Made with love by [Eduardo Ferreira](https://duferreira.com.br) 💜🚀
+🚀 Made by [Eduardo Ferreira](https://duferreira.com.br) 🚀
