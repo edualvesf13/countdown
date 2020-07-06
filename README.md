@@ -53,7 +53,7 @@ Open the file index.html for execute the project in the browser.
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Pokedex NextJS](https://github.com/LauraBeatris/pokedex-nextjs/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/LauraBeatris/pokedex-nextjs/blob/master/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Countdown](https://github.com/edualvesf13/countdown/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/edualvesf13/countdown/blob/master/CONTRIBUTING.md) to find out about the coding standards.
 
 # :tada: Contributing
 
